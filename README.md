@@ -17,3 +17,5 @@ Anomaly detection in database systems can be approached through three distinct l
 
 > **Note:** We focus on Schema and Data levels because they are best suited for ML-driven pattern recognition. Performance anomalies (latency spikes) typically require real-time infrastructure monitoring rather than static data profiling.
 
+##  Data Strategy: From Kaggle to Oracle
+> **Note on Environment:** Since we don't have a real Oracle Database ready to use and to ensure the project is "Enterprise-ready", we simulated a real-world infrastructure by injecting Kaggle's financial data into a local Oracle Database instance using a custom Python-based ETL process.
