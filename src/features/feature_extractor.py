@@ -1,5 +1,3 @@
-# src/features/feature_extractor.py
-
 import json
 import numpy as np
 import pandas as pd
@@ -9,7 +7,7 @@ import os
 load_dotenv()
 
 # Colonnes à exclure — identifiants et labels
-EXCLUDE_COLUMNS = {"TRANSACTION_ID", "CLASS"}
+EXCLUDE_COLUMNS = {"TRANSACTION_ID", "CLASS","TIME_SECONDS"}
 
 class FeatureExtractor:
 
