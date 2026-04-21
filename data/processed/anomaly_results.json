@@ -1,0 +1,437 @@
+[
+  {
+    "table": "TRANSACTIONS",
+    "column": "AMOUNT",
+    "anomaly_score": 1.0,
+    "is_anomaly": true,
+    "features": {
+      "null_ratio": 0.0,
+      "unique_ratio": 0.115,
+      "mean": 88.3496,
+      "std": 250.1201,
+      "min": 0.0,
+      "max": 25691.16,
+      "outlier_ratio": 0.112
+    }
+  },
+  {
+    "table": "TRANSACTIONS",
+    "column": "V1",
+    "anomaly_score": 0.341,
+    "is_anomaly": false,
+    "features": {
+      "null_ratio": 0.0,
+      "unique_ratio": 0.9679,
+      "mean": 0.0,
+      "std": 1.9587,
+      "min": -56.4075,
+      "max": 2.4549,
+      "outlier_ratio": 0.0248
+    }
+  },
+  {
+    "table": "TRANSACTIONS",
+    "column": "V2",
+    "anomaly_score": 0.209,
+    "is_anomaly": false,
+    "features": {
+      "null_ratio": 0.0,
+      "unique_ratio": 0.9679,
+      "mean": 0.0,
+      "std": 1.6513,
+      "min": -72.7157,
+      "max": 22.0577,
+      "outlier_ratio": 0.0475
+    }
+  },
+  {
+    "table": "TRANSACTIONS",
+    "column": "V3",
+    "anomaly_score": 0.1859,
+    "is_anomaly": false,
+    "features": {
+      "null_ratio": 0.0,
+      "unique_ratio": 0.9679,
+      "mean": -0.0,
+      "std": 1.5163,
+      "min": -48.3256,
+      "max": 9.3826,
+      "outlier_ratio": 0.0118
+    }
+  },
+  {
+    "table": "TRANSACTIONS",
+    "column": "V4",
+    "anomaly_score": 0.1209,
+    "is_anomaly": false,
+    "features": {
+      "null_ratio": 0.0,
+      "unique_ratio": 0.9679,
+      "mean": 0.0,
+      "std": 1.4159,
+      "min": -5.6832,
+      "max": 16.8753,
+      "outlier_ratio": 0.0391
+    }
+  },
+  {
+    "table": "TRANSACTIONS",
+    "column": "V5",
+    "anomaly_score": 0.3727,
+    "is_anomaly": true,
+    "features": {
+      "null_ratio": 0.0,
+      "unique_ratio": 0.9679,
+      "mean": 0.0,
+      "std": 1.3802,
+      "min": -113.7433,
+      "max": 34.8017,
+      "outlier_ratio": 0.0432
+    }
+  },
+  {
+    "table": "TRANSACTIONS",
+    "column": "V6",
+    "anomaly_score": 0.3031,
+    "is_anomaly": false,
+    "features": {
+      "null_ratio": 0.0,
+      "unique_ratio": 0.9679,
+      "mean": 0.0,
+      "std": 1.3323,
+      "min": -26.1605,
+      "max": 73.3016,
+      "outlier_ratio": 0.0806
+    }
+  },
+  {
+    "table": "TRANSACTIONS",
+    "column": "V7",
+    "anomaly_score": 0.4134,
+    "is_anomaly": true,
+    "features": {
+      "null_ratio": 0.0,
+      "unique_ratio": 0.9679,
+      "mean": -0.0,
+      "std": 1.2371,
+      "min": -43.5572,
+      "max": 120.5895,
+      "outlier_ratio": 0.0314
+    }
+  },
+  {
+    "table": "TRANSACTIONS",
+    "column": "V8",
+    "anomaly_score": 0.2346,
+    "is_anomaly": false,
+    "features": {
+      "null_ratio": 0.0,
+      "unique_ratio": 0.9679,
+      "mean": 0.0,
+      "std": 1.1944,
+      "min": -73.2167,
+      "max": 20.0072,
+      "outlier_ratio": 0.0847
+    }
+  },
+  {
+    "table": "TRANSACTIONS",
+    "column": "V9",
+    "anomaly_score": 0.0075,
+    "is_anomaly": false,
+    "features": {
+      "null_ratio": 0.0,
+      "unique_ratio": 0.9679,
+      "mean": -0.0,
+      "std": 1.0986,
+      "min": -13.4341,
+      "max": 15.595,
+      "outlier_ratio": 0.0291
+    }
+  },
+  {
+    "table": "TRANSACTIONS",
+    "column": "V10",
+    "anomaly_score": 0.0289,
+    "is_anomaly": false,
+    "features": {
+      "null_ratio": 0.0,
+      "unique_ratio": 0.9679,
+      "mean": 0.0,
+      "std": 1.0888,
+      "min": -24.5883,
+      "max": 23.7451,
+      "outlier_ratio": 0.0333
+    }
+  },
+  {
+    "table": "TRANSACTIONS",
+    "column": "V11",
+    "anomaly_score": 0.1066,
+    "is_anomaly": false,
+    "features": {
+      "null_ratio": 0.0,
+      "unique_ratio": 0.9679,
+      "mean": 0.0,
+      "std": 1.0207,
+      "min": -4.7975,
+      "max": 12.0189,
+      "outlier_ratio": 0.0027
+    }
+  },
+  {
+    "table": "TRANSACTIONS",
+    "column": "V12",
+    "anomaly_score": 0.0309,
+    "is_anomaly": false,
+    "features": {
+      "null_ratio": 0.0,
+      "unique_ratio": 0.9679,
+      "mean": -0.0,
+      "std": 0.9992,
+      "min": -18.6837,
+      "max": 7.8484,
+      "outlier_ratio": 0.0539
+    }
+  },
+  {
+    "table": "TRANSACTIONS",
+    "column": "V13",
+    "anomaly_score": 0.0352,
+    "is_anomaly": false,
+    "features": {
+      "null_ratio": 0.0,
+      "unique_ratio": 0.9679,
+      "mean": 0.0,
+      "std": 0.9953,
+      "min": -5.7919,
+      "max": 7.1269,
+      "outlier_ratio": 0.0118
+    }
+  },
+  {
+    "table": "TRANSACTIONS",
+    "column": "V14",
+    "anomaly_score": 0.0186,
+    "is_anomaly": false,
+    "features": {
+      "null_ratio": 0.0,
+      "unique_ratio": 0.9679,
+      "mean": 0.0,
+      "std": 0.9586,
+      "min": -19.2143,
+      "max": 10.5268,
+      "outlier_ratio": 0.0497
+    }
+  },
+  {
+    "table": "TRANSACTIONS",
+    "column": "V15",
+    "anomaly_score": 0.0484,
+    "is_anomaly": false,
+    "features": {
+      "null_ratio": 0.0,
+      "unique_ratio": 0.9679,
+      "mean": 0.0,
+      "std": 0.9153,
+      "min": -4.4989,
+      "max": 8.8777,
+      "outlier_ratio": 0.0102
+    }
+  },
+  {
+    "table": "TRANSACTIONS",
+    "column": "V16",
+    "anomaly_score": 0.0,
+    "is_anomaly": false,
+    "features": {
+      "null_ratio": 0.0,
+      "unique_ratio": 0.9679,
+      "mean": 0.0,
+      "std": 0.8763,
+      "min": -14.1299,
+      "max": 17.3151,
+      "outlier_ratio": 0.0287
+    }
+  },
+  {
+    "table": "TRANSACTIONS",
+    "column": "V17",
+    "anomaly_score": 0.0006,
+    "is_anomaly": false,
+    "features": {
+      "null_ratio": 0.0,
+      "unique_ratio": 0.9679,
+      "mean": -0.0,
+      "std": 0.8493,
+      "min": -25.1628,
+      "max": 9.2535,
+      "outlier_ratio": 0.0261
+    }
+  },
+  {
+    "table": "TRANSACTIONS",
+    "column": "V18",
+    "anomaly_score": 0.0173,
+    "is_anomaly": false,
+    "features": {
+      "null_ratio": 0.0,
+      "unique_ratio": 0.9679,
+      "mean": 0.0,
+      "std": 0.8382,
+      "min": -9.4987,
+      "max": 5.0411,
+      "outlier_ratio": 0.0264
+    }
+  },
+  {
+    "table": "TRANSACTIONS",
+    "column": "V19",
+    "anomaly_score": 0.0227,
+    "is_anomaly": false,
+    "features": {
+      "null_ratio": 0.0,
+      "unique_ratio": 0.9679,
+      "mean": 0.0,
+      "std": 0.814,
+      "min": -7.2135,
+      "max": 5.592,
+      "outlier_ratio": 0.0358
+    }
+  },
+  {
+    "table": "TRANSACTIONS",
+    "column": "V20",
+    "anomaly_score": 0.2262,
+    "is_anomaly": false,
+    "features": {
+      "null_ratio": 0.0,
+      "unique_ratio": 0.9679,
+      "mean": 0.0,
+      "std": 0.7709,
+      "min": -54.4977,
+      "max": 39.4209,
+      "outlier_ratio": 0.0975
+    }
+  },
+  {
+    "table": "TRANSACTIONS",
+    "column": "V21",
+    "anomaly_score": 0.0629,
+    "is_anomaly": false,
+    "features": {
+      "null_ratio": 0.0,
+      "unique_ratio": 0.9679,
+      "mean": 0.0,
+      "std": 0.7345,
+      "min": -34.8304,
+      "max": 27.2028,
+      "outlier_ratio": 0.0509
+    }
+  },
+  {
+    "table": "TRANSACTIONS",
+    "column": "V22",
+    "anomaly_score": 0.0735,
+    "is_anomaly": false,
+    "features": {
+      "null_ratio": 0.0,
+      "unique_ratio": 0.9679,
+      "mean": -0.0,
+      "std": 0.7257,
+      "min": -10.9331,
+      "max": 10.5031,
+      "outlier_ratio": 0.0046
+    }
+  },
+  {
+    "table": "TRANSACTIONS",
+    "column": "V23",
+    "anomaly_score": 0.1342,
+    "is_anomaly": false,
+    "features": {
+      "null_ratio": 0.0,
+      "unique_ratio": 0.9679,
+      "mean": 0.0,
+      "std": 0.6245,
+      "min": -44.8077,
+      "max": 22.5284,
+      "outlier_ratio": 0.0651
+    }
+  },
+  {
+    "table": "TRANSACTIONS",
+    "column": "V24",
+    "anomaly_score": 0.0784,
+    "is_anomaly": false,
+    "features": {
+      "null_ratio": 0.0,
+      "unique_ratio": 0.9679,
+      "mean": 0.0,
+      "std": 0.6056,
+      "min": -2.8366,
+      "max": 4.5845,
+      "outlier_ratio": 0.0168
+    }
+  },
+  {
+    "table": "TRANSACTIONS",
+    "column": "V25",
+    "anomaly_score": 0.0635,
+    "is_anomaly": false,
+    "features": {
+      "null_ratio": 0.0,
+      "unique_ratio": 0.9679,
+      "mean": 0.0,
+      "std": 0.5213,
+      "min": -10.2954,
+      "max": 7.5196,
+      "outlier_ratio": 0.0188
+    }
+  },
+  {
+    "table": "TRANSACTIONS",
+    "column": "V26",
+    "anomaly_score": 0.1072,
+    "is_anomaly": false,
+    "features": {
+      "null_ratio": 0.0,
+      "unique_ratio": 0.9679,
+      "mean": 0.0,
+      "std": 0.4822,
+      "min": -2.6046,
+      "max": 3.5173,
+      "outlier_ratio": 0.0196
+    }
+  },
+  {
+    "table": "TRANSACTIONS",
+    "column": "V27",
+    "anomaly_score": 0.2853,
+    "is_anomaly": false,
+    "features": {
+      "null_ratio": 0.0,
+      "unique_ratio": 0.9679,
+      "mean": -0.0,
+      "std": 0.4036,
+      "min": -22.5657,
+      "max": 31.6122,
+      "outlier_ratio": 0.1375
+    }
+  },
+  {
+    "table": "TRANSACTIONS",
+    "column": "V28",
+    "anomaly_score": 0.2639,
+    "is_anomaly": false,
+    "features": {
+      "null_ratio": 0.0,
+      "unique_ratio": 0.9679,
+      "mean": -0.0,
+      "std": 0.3301,
+      "min": -15.4301,
+      "max": 33.8478,
+      "outlier_ratio": 0.1065
+    }
+  }
+]
